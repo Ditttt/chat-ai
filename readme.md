@@ -19,7 +19,7 @@ Sebagai tambahan, perlu diingat bahwa ChatGPT adalah model belajar mesin dan out
 > $ pkg update && pkg upgrade
 > $ pkg install python
 > $ pkg install git
-https://github.com/Ditttt/chat-ai.git)
+> $ git clone https://github.com/Ditttt/chat-ai.git
 > $ cd chat-bot
 > $ pip install -r requirements.txt
 > $ python main.py
@@ -43,7 +43,7 @@ https://github.com/Ditttt/chat-ai.git)
 > $ sudo apt upgrade
 > $ sudo apt install git
 > $ sudo apt-get install python3-pip
-> $ git clone https://github.com/Ditttt/chat-bot.git
+> $ git clone https://github.com/Ditttt/chat-ai.git
 > $ cd chat-bot
 > $ pip3 install -r requirements.txt
 > $ python main.py
