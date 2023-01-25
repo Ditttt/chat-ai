@@ -20,7 +20,7 @@ Sebagai tambahan, perlu diingat bahwa ChatGPT adalah model belajar mesin dan out
 > $ pkg install python
 > $ pkg install git
 > $ git clone https://github.com/Ditttt/chat-ai.git
-> $ cd chat-bot
+> $ cd chat-ai
 > $ pip install -r requirements.txt
 > $ python main.py
 ```
@@ -44,7 +44,7 @@ Sebagai tambahan, perlu diingat bahwa ChatGPT adalah model belajar mesin dan out
 > $ sudo apt install git
 > $ sudo apt-get install python3-pip
 > $ git clone https://github.com/Ditttt/chat-ai.git
-> $ cd chat-bot
+> $ cd chat-ai
 > $ pip3 install -r requirements.txt
 > $ python main.py
 ```
